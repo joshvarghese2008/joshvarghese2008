@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @joshvarghese2008
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on: I am not sure
-- 📫 How to reach me: I don't have contact info yet
+I don't do much coding
 
 <!---
 joshvarghese2008/joshvarghese2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
